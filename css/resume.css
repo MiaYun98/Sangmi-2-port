@@ -37,6 +37,10 @@ h2 {
   font-size: 3.5rem;
 }
 
+.devicon {
+  filter: grayscale(40);
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
@@ -61,6 +65,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
+  filter: grayscale(0);
   color: #4b2e83;
 }
 
