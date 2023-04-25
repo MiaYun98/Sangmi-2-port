@@ -1,7 +1,7 @@
 # Sangmi-2-port
 ## Description 
-
-
+This is a personal Protfolio Websites using HTML, CSS, and JavaScript.
+It contians all the elements that requires for the resume. Including, Introduction, Education, Project, experience, and Award.
 
 ## User story 
 
